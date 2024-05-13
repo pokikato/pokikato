@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pokikato
 - 👀 I’m interested in music and art
 - 🌱 I’m currently learning Python, Java, Guitar, Flute, Piano, Singing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me akanec115@gmail.com for collaboration related work on animation and art commissions
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I animate, make songs and am transgender
 
